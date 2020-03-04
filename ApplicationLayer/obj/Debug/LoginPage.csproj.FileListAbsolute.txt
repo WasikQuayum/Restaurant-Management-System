@@ -1,0 +1,39 @@
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\bin\Debug\LoginPage.exe
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\bin\Debug\LoginPage.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Form1.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.exe
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.CreateMenue.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.EmployeeManagement.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Hompage.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Food.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Accounts.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Chief.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.StoredInventory.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.CreateInventoryList.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Entity.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Repository.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Entity.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Repository.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\bin\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Accounts.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Chief.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.CreateInventoryList.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.CreateMenue.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.EmployeeManagement.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Food.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Hompage.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.StoredInventory.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache

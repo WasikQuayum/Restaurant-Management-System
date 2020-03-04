@@ -1,0 +1,209 @@
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Application\bin\Debug\ApplicationLayer.exe.config
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+F:\10th semester\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+F:\AI(C#)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Orderstatus.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.xml
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.xml
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Orderstatus.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Orderstatus.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.xml
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerOrderStatus.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Entity.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\Repository.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\bin\Debug\itextsharp.xml
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Accounts.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.BillGenerate.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Chef.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateIngredientList.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.CreateMenue.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.EmployeeManagement.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Food.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.IngredientBill.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Loginpage.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerHompage.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerOrderStatus.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Orderstatus.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.StoredInventory.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.TakeOrder.resources
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.ManagerOrderStatus.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Order.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Fixcostl.resources
+C:\Users\RFT\Desktop\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Report.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Fixcostl.resources
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\ApplicationLayer\obj\Debug\ApplicationLayer.Report.resources

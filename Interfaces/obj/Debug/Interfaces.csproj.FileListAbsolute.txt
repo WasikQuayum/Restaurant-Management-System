@@ -1,0 +1,42 @@
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+F:\10th semester\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+F:\10th semester\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+F:\10th semester\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+F:\10th semester\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+F:\10th semester\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+F:\10th semester\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+F:\10th semester\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\RFT\Desktop\Project\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+F:\10th semester\OOP-2(Practice)\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Rizwan Karim Rafat\Desktop\20.12.19\RestaurentManagementSystem\RestaurentManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
